@@ -1,0 +1,21 @@
+{
+    "report": [
+        {
+            "file_name": "/home/nishan_km/Downloads/The-MALWARE-Repo/Joke/Hydra.exe",
+            "file_hash": "b2eca909a91e1946457a0b36eaf90930",
+            "threat_name": "Malware.Win32.Gencirc.117c7ced"
+        },
+        {
+            "file_name": "/home/nishan_km/Downloads/The-MALWARE-Repo/Joke/Windows-KB2670838.msu.exe",
+            "file_hash": "6e49c75f701aa059fa6ed5859650b910",
+            "threat_name": "Gen:Variant.Bulz.170678"
+        },
+        {
+            "file_name": "/home/nishan_km/Downloads/The-MALWARE-Repo/Joke/WindowsUpdate.exe",
+            "file_hash": "515198a8dfa7825f746d5921a4bc4db9",
+            "threat_name": "Trojan.Malware.8326453.susgen"
+        }
+    ],
+    "user": "root",
+    "date": "09-11-2024"
+}
